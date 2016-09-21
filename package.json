@@ -1,0 +1,16 @@
+{
+  "name": "svg-animation",
+  "version": "0.0.1",
+  "description": "mucking around with svg animation",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "Josh Walker",
+      "email": "josh@kalamuna.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "velocity": "^0.7.2"
+  }
+}
